@@ -1,7 +1,7 @@
 # Winbox‑W‑Favicon‑512
 512px blue circular Winbox W‑letter logo favicon icon
 
-![Winbox blue round white capital‑W minimalist brand logo, 512×512 website browser tab favicon, blue circle W‑symbol brand icon](winbox-w-favicon-512.png)
+![Winbox blue round white capital‑W minimalist brand logo, 512×512 website browser tab favicon, blue circle W‑symbol brand icon](winbox‑w‑favicon‑512.png)
 
 ## Information
 - Size: 512 × 512 px square high‑resolution PNG icon
