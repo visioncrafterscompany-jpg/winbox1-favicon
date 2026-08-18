@@ -1,4 +1,11 @@
-# Winbox-W-Favicon-512
+<head>
+  <meta charset="UTF-8">
+
+  <!-- 粘贴在最上面 -->
+  <meta name="google-site-verification" content="你的专属长串随机代码" />
+
+  <!-- Website Title -->
+  <title>Winbox66 Malaysia | Winbox Login | Trusted Online Casino Platform</title># Winbox-W-Favicon-512
 
 512px blue circular Winbox W-letter logo favicon icon
 
